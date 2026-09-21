@@ -1,1 +1,3 @@
-# project_promix
+streamlit>=1.40.0
+pandas>=2.0.0
+pypdf>=5.0.0
